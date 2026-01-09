@@ -1,2 +1,3 @@
 # Proyecto_Estructura-y-Programacion-de-Computadoras
 Carpeta con el proyecto final de la materia Estructura y Programacion de Computadoras del semestre 2023-1, este consta de aplicar los conocimientos de programación en ensamblador obtenidos durante el curso de Estructuras y Programación de Computadoras, para desarrollar un menú que muestre la hora del sistema en tiempo real, que ejecute diferentes operaciones con matrices e imprima los datos de entrada y salida, además de poder finalizar con ESC.
+Enlace de video de ejcucion: https://drive.google.com/file/d/1hkga1tWAyYaDHCn7TdYhlUJridmTtWtc/view?usp=sharing
